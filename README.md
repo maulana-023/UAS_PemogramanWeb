@@ -1,4 +1,4 @@
-## UAS: Aplikasi Sistem Antrian Loket.
+## UAS: Aplikasi Sistem Antrian Loket
 ## Mata Kuliah Pemrograman WEB
 ```
 Nama  : Maulana Muhamad
