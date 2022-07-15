@@ -8,4 +8,4 @@ Universitas Pelita Bangsa
 ```
 
 ### Dokumentasi | https://drive.google.com/file/d/1_crlesuApoJhw8rgABrgvNi-OYE6ox-H/view?usp=sharing
-### DEMO | 
+### DEMO | http://maulanaloket.epizy.com
